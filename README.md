@@ -1,2 +1,2 @@
 # PHS3350 Plots
-Plots produced in PHS3350
+Plots produced in PHS3350.
